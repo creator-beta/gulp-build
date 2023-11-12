@@ -1,0 +1,1 @@
+!function(){"use strict";let o="# GULP BUILD\n";o+="# Author: Kuznetsov Creator\n",o+="# Version: 2023",console.log("# GULP BUILD\n# Author: Kuznetsov Creator\n# Version: 2023")}();
