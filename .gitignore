@@ -1,2 +1,7 @@
+# For development
 node_modules/
 docs/
+
+# For production
+# /*
+# !docs/
